@@ -1,4 +1,4 @@
-class devnet_demo::ntp_servers (
+class devnet_demo2::ntp_servers (
   Hash $ntp = {},
 ) {
 
