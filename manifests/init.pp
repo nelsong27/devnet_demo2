@@ -1,1 +1,1 @@
-class devnet_demo {}
+class devnet_demo2 {}
