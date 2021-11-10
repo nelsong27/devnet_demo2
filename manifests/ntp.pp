@@ -1,4 +1,4 @@
-class devnet_demo::ntp (
+class devnet_demo2::ntp (
   Boolean $purge = false,
   Hash $servers = {},
 ) {
