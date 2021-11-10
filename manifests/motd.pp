@@ -1,4 +1,4 @@
-class devnet_demo::motd (
+class devnet_demo2::motd (
   String $motd   = 'Managed by Puppet'
 ) {
 
